@@ -27,3 +27,6 @@ You will get around 384GB to download any torrent you want.
 2. **Downloading missing files without re-downloading whole torrent**: If somehow some files are missing try to re-download torrent. Fastresume will check files.
 
 For more questions check [existing issues](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader/issues) or [open a new one](https://github.com/FKLC/Torrent-To-Google-Drive-Downloader/issues/new)
+
+# Contact
+If you are interested then you can join into our telegram group [@techsouls0](https://t.me/techsouls0) or channel [@tecsouls](https://t.me/tecsouls)
